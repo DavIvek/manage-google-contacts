@@ -1,0 +1,19 @@
+HELP.md
+.DS_Store
+target/
+log/
+logs/
+tokens/
+out/
+src/test/
+src/main/resources/credentials.json
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+src/main/resources/META-INF/
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
