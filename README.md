@@ -1,4 +1,4 @@
-# Contacts Manager for Google
+# Contacts Manager for Google Contacts
 
 This Java program is designed to manage contacts on Google. It reads a file called "contacts.txt", which should be located in the same folder as the .jar file.
 Your application should be named "ContactList". You should have a credentials.json file in the same folder as the .jar file.
